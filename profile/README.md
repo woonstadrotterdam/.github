@@ -56,13 +56,13 @@ MCP-server to provide SQL-database tools to your A.I.
 
 ---
 
-### 💬🏛️ [mcp-monumenten](https://github.com/woonstadrotterdam/mcp-sqlalchemy)
+### 💬🏛️ [mcp-monumenten](https://github.com/woonstadrotterdam/mcp-monumenten)
 
 MCP-server that allows A.I. to retrieve monumental statusses using our [monumenten](https://github.com/woonstadrotterdam/monumenten) package.
 
-![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/mcp-sqlalchemy)
-![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/mcp-sqlalchemy)
-![License](https://img.shields.io/github/license/woonstadrotterdam/mcp-sqlalchemy)
+![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/mcp-monumenten)
+![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/mcp-monumenten)
+![License](https://img.shields.io/github/license/woonstadrotterdam/mcp-monumenten)
 
 ---
 
